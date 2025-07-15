@@ -1,4 +1,5 @@
 import Navbar import "./navbar.js"
+import "./App.css"
 
 function App() {
   return (
